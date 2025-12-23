@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm PRERAN S</h1>
+<h1 align="center">Hi , I'm PRERAN S</h1>
 <h3 align="center">The one who is more interested in exploring things and getting into it !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preran001&label=Profile%20views&color=0e75b6&style=flat" alt="preran001" /> </p>
 
-- 🔭 I’m currently working on [SIGN_2_SPEAK](https://github.com/PRERAN001/SIGN_2_SPEAK)
+-  I’m currently working on [SIGN_2_SPEAK](https://github.com/PRERAN001/SIGN_2_SPEAK)
 
-- 🌱 I’m currently learning **typescript,Machine leaning,Deep learning,Ai Agents**
+-  I’m currently learning **typescript,Machine leaning,Deep learning,Ai Agents**
 
-- 🧮 I'm also working on [CONVERT_THE VIDEO_AS_U_NEED]("I need to start")
+- I'm also working on [CONVERT_THE VIDEO_AS_U_NEED]("I need to start")
 
-- 👨‍💻 All of my projects are available at [https://github.com/PRERAN001](https://github.com/PRERAN001)
+-  All of my projects are available at [https://github.com/PRERAN001](https://github.com/PRERAN001)
 
-- 💬 Ask me about **react,javeScript,python,c,basic Machine learning**
+-  Ask me about **react,javeScript,python,c,basic Machine learning**
 
-- ⚡ Fun fact **I thing I am funny probably yeah!**
+-  Fun fact **I thing I am funny probably yeah!**
 Here's your corrected and **categorized** version of the tools and technologies list under proper headings:
 
 ---
 
-### 🧠 Languages
+### Languages
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -35,8 +35,7 @@ Here's your corrected and **categorized** version of the tools and technologies 
 </p>
 
 ---
-
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -53,7 +52,7 @@ Here's your corrected and **categorized** version of the tools and technologies 
 
 ---
 
-### 🖥️ Frontend Development
+###  Frontend Development
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -72,7 +71,7 @@ Here's your corrected and **categorized** version of the tools and technologies 
 
 ---
 
-### 🧑‍🍳 Backend Development
+###  Backend Development
 
 <p align="left">
   
@@ -84,7 +83,7 @@ Here's your corrected and **categorized** version of the tools and technologies 
 
 ---
 
-### 🗃️ Databases
+###  Databases
 
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -95,7 +94,7 @@ Here's your corrected and **categorized** version of the tools and technologies 
 
 ---
 
-### 📊 Data Science & Machine Learning
+###  Data Science & Machine Learning
 
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
