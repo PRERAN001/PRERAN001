@@ -23,7 +23,7 @@
 > Then rebuild them better
 ```
 
-(three backticks, nothing else)
+
 
 ---
 
@@ -115,8 +115,9 @@ Copy **everything below**, starting **after** the closing backticks 👇
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=BUILD.+BREAK.+LEARN.+REPEAT.&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=BUILD.+BREAK.+LEARN.+REPEAT.&fontSize=48&fontAlignY=70" />
 </p>
+
 
 ---
 
