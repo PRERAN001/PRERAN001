@@ -85,16 +85,14 @@ Copy **everything below**, starting **after** the closing backticks 👇
 ## 📈 GITHUB STATS (3D FEEL)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRERAN001&show_icons=true&theme=radical&hide_border=true" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRERAN001&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRERAN001&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRERAN001&theme=radical&hide_border=true&cache_seconds=1800" height="180"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PRERAN001&theme=radical&no-bg=true&margin-w=15" alt="PRERAN001 Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRERAN001&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 </p>
+
 
 
 
