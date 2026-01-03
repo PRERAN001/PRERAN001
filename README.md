@@ -9,9 +9,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=preran001&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
 </p>
----
+
 ## WHO AM I REALLY?
-```txt
+
 > Curious mind
 > Engineer by obsession
 > AI + Systems builder
