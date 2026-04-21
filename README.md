@@ -18,14 +18,7 @@
 > I break things to understand them
 > Then rebuild them better
 
----
-## WHAT I’M UP TO
-- Building **SIGN_2_SPEAK** — Real-time AI translation of sign language to speech
-- Exploring **AI Agents, Deep Learning, Video Intelligence, and Multimodal Systems**
-- Developing **CONVERT_THE_VIDEO_AS_U_NEED** — Flexible video processing and transformation tool (experimental)
-- Obsessed with turning complex ideas into scalable, production-ready systems
-- Fun fact: I debug faster after coffee
----
+
 ## TECHNOLOGIES
 
 ### Languages
