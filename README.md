@@ -23,32 +23,32 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,ts&theme=dark" />
+  c &nbsp;&nbsp; c++ &nbsp;&nbsp; python &nbsp;&nbsp; javascript &nbsp;&nbsp; typescript
 </p>
 
 ### Frontend & Styling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" />
+  html &nbsp;&nbsp; css &nbsp;&nbsp; tailwindcss &nbsp;&nbsp; react &nbsp;&nbsp; next.js
 </p>
 
 ### Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask&theme=dark" />
+  node.js &nbsp;&nbsp; flask
 </p>
 
 ### Databases & ORM
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,prisma,neon&theme=dark" />
+  mongodb &nbsp;&nbsp; prisma &nbsp;&nbsp; neon
 </p>
 
 ### Machine Learning & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikit_learn,pandas&theme=dark" />
+  python &nbsp;&nbsp; tensorflow &nbsp;&nbsp; pytorch &nbsp;&nbsp; scikit-learn &nbsp;&nbsp; pandas
 </p>
 
 ### Tools & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,arduino&theme=dark" />
+  git &nbsp;&nbsp; github &nbsp;&nbsp; postman &nbsp;&nbsp; arduino
 </p>
 
 ---
@@ -58,7 +58,7 @@
 </p>
 > Animated contribution grid — a visual story of consistent building.
 
----
+
 ## GITHUB STATS
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PRERAN001&show_icons=true&theme=tokyonight" height="180"/>
@@ -67,12 +67,12 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRERAN001&layout=compact&theme=tokyonight"/>
 </p>
----
+
 ## ACTIVITY GRAPH
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=preran001&bg_color=0d1117&color=00eaff&line=ff00ff&point=ffffff&hide_border=true" />
 </p>
----
+
 ## CONNECT WITH ME
 <p align="center">
   <a href="https://linkedin.com/in/preran-s"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -80,8 +80,8 @@
   <a href="https://kaggle.com/preran01"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
   <a href="https://hackerrank.com/@preran248"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
 </p>
----
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=BUILD.+BREAK.+LEARN.+REPEAT.&fontSize=48&fontAlignY=70" />
 </p>
----
+
